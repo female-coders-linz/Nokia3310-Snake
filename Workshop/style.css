@@ -1,0 +1,19 @@
+.grid {
+  /* todo: set width and height of the grid */
+  display: flex;
+  flex-wrap: wrap;
+  border-style: solid;
+}
+
+.grid div {
+  /* todo: set width and height of single grid field */
+}
+
+
+.snake {
+  /* todo: set styling for snake field - eg. background-color */
+}
+
+.apple {
+  /* todo: set styling for apple field - eg. background-color */
+}
